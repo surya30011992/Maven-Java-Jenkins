@@ -1,3 +1,3 @@
 # Maven-Java-Jenkins
 Maven-Java-Jenkins
-new line added
+new line added 1.0
